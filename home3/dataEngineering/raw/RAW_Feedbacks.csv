@@ -1,0 +1,2 @@
+,id,employeeID,name,designation,managerId,questions,aggregatedScore,createdAt,updatedAt
+0,3,JMD363,Aswath,Software Engineer,JMD364,"[5, 5, 5, 5, 5]",100.0,2024-10-03 08:20:10.796000+00:00,2024-10-03 08:20:10.796000+00:00
